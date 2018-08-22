@@ -1,0 +1,8 @@
+---
+lockfile_version: 1
+depends:
+- name: windows-baseline
+  resolved_source:
+    url: https://github.com/dev-sec/windows-baseline/archive/master.tar.gz
+    sha256: e17c11ad1b6fe739f5709eeb71dd5167b88c35036187ae4178d70b0482c6e114
+  version_constraints: []
